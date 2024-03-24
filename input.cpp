@@ -15,6 +15,6 @@ int main() {
   cout << "<출력>\n";
   cout << "이름 : " << name << '\n';
   cout << "학번 : " << student_num << '\n';
-  cout << "팀 이름 : " << team_name << '\n';
+  cout << "팀 이름: " << team_name << '\n';
   return 0;
 }
